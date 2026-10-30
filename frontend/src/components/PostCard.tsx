@@ -1,4 +1,5 @@
-import type { Post } from "./types/post.ts";
+import type { Post } from "../types/post";
+
 
 interface PostCardProps {
   post: Post;
